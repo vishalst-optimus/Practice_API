@@ -1,0 +1,15 @@
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\obj\Debug\net8.0\Practice.Application.csproj.AssemblyReference.cache
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\obj\Debug\net8.0\Practice.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\obj\Debug\net8.0\Practice.Application.AssemblyInfoInputs.cache
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\obj\Debug\net8.0\Practice.Application.AssemblyInfo.cs
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\obj\Debug\net8.0\Practice.Application.csproj.CoreCompileInputs.cache
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\bin\Debug\net8.0\Practice.Application.deps.json
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\bin\Debug\net8.0\Practice.Application.dll
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\bin\Debug\net8.0\Practice.Application.pdb
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\bin\Debug\net8.0\Practice.Domain.dll
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\bin\Debug\net8.0\Practice.Domain.pdb
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\obj\Debug\net8.0\Practice.280C4E79.Up2Date
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\obj\Debug\net8.0\Practice.Application.dll
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\obj\Debug\net8.0\refint\Practice.Application.dll
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\obj\Debug\net8.0\Practice.Application.pdb
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Application\obj\Debug\net8.0\ref\Practice.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Domain\bin\Debug\net8.0\Practice.Domain.deps.json
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Domain\bin\Debug\net8.0\Practice.Domain.dll
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Domain\bin\Debug\net8.0\Practice.Domain.pdb
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Domain\obj\Debug\net8.0\Practice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Domain\obj\Debug\net8.0\Practice.Domain.AssemblyInfoInputs.cache
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Domain\obj\Debug\net8.0\Practice.Domain.AssemblyInfo.cs
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Domain\obj\Debug\net8.0\Practice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Domain\obj\Debug\net8.0\Practice.Domain.dll
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Domain\obj\Debug\net8.0\refint\Practice.Domain.dll
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Domain\obj\Debug\net8.0\Practice.Domain.pdb
+C:\Users\vishal.thapa\OneDrive - Optimus Information Inc\Desktop\Practice API\Practice.Domain\obj\Debug\net8.0\ref\Practice.Domain.dll
